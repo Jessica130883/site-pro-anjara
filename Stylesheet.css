@@ -10,7 +10,7 @@ body {
 }
 @media screen and (max-width: 768px) {
     body {
-        background-size: 600px 700px;
+        background-size: 600px 1200px;
         background-attachment: scroll;
         
     }
