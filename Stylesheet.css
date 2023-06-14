@@ -8,3 +8,19 @@ html, body {
 .socials-icone {
     list-style: none;
 }
+.socials-box {
+    text-align: right;
+    margin-right: 20px;
+}
+@media screen and (max-width: 768px){
+
+    .photo-box {
+        margin-top: -150px;
+        background-color: rgba(178, 184, 190, 0.875);
+    }
+    .visuel-anjara {
+        max-width: 600px;
+        height: 300px;
+        margin-left: 35%;
+    }
+}
