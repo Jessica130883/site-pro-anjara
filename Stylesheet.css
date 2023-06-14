@@ -5,3 +5,6 @@ html, body {
 .navbar-nav {
    margin: 0 auto;
 }
+.socials-icone {
+    list-style: none;
+}
