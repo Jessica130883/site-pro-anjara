@@ -17,10 +17,32 @@ html, body {
     .photo-box {
         margin-top: -150px;
         background-color: rgba(178, 184, 190, 0.875);
+        position: relative;
+      
+    }
+    .description-box {
+        position: absolute;
+        background-color: white;
+        top: 310px;
+        left: 35%;
+        width: 300px;
+        z-index: 1;
+        margin-top: -40px;
+        
     }
     .visuel-anjara {
         max-width: 600px;
         height: 300px;
         margin-left: 35%;
+      
+    }
+    .bio-main-page {
+        text-align: center;
+        background-color: white;
+       
+    }
+    .description-main-page {
+        max-width: 400px;
+        margin: 0 auto;
     }
 }
