@@ -12,7 +12,35 @@ html, body {
     text-align: right;
     margin-right: 20px;
 }
-@media screen and (max-width: 768px){
+@media screen and (max-width: 768px) {
+
+    .visuel-anjara {
+        height: 400px;
+        width: 100%;
+        margin-top: -145px;
+        z-index: 2;
+    }
+    .photo-box {
+        height: 400px;
+    }
+    .socials-box {
+        z-index: 1;
+    }
+    .description-box {
+        margin: 0 auto;
+        margin-top: -120px;
+    }
+    .title-website {
+        text-align: center;
+    }
+    .description-main-page {
+        max-width: 250px;
+        margin: 0 auto;
+        text-align: justify;
+    }
+
+}
+@media screen and (min-width: 769px){
 
     .photo-box {
         margin-top: -150px;
