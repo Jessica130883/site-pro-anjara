@@ -15,10 +15,8 @@ html, body {
 @media screen and (max-width: 768px) {
 
     .visuel-anjara {
-        height: 400px;
+        height: 390px;
         width: 100%;
-        margin-top: -145px;
-        z-index: 2;
     }
     .photo-box {
         height: 400px;
@@ -26,7 +24,7 @@ html, body {
    
     .description-box {
         margin: 0 auto;
-        margin-top: -120px;
+        margin-top: 40px;
     }
     .title-website {
         text-align: center;
@@ -35,6 +33,11 @@ html, body {
         max-width: 250px;
         margin: 0 auto;
         text-align: justify;
+        margin-bottom: 90px;
+    }
+    .ml-embedded {
+        max-width: 300px;
+        margin: auto;
     }
     .socials-box {
         display: none;
