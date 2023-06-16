@@ -35,8 +35,7 @@ html, body {
         text-align: justify;
         margin-bottom: 90px;
     }
-    .ml-embedded {
-        max-width: 300px;
+    iframe {
         margin: auto;
     }
     .socials-box {
