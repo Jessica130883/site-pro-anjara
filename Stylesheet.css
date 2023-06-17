@@ -47,6 +47,17 @@ html, body {
       
        
     }
+    .title-bio {
+        text-align: center;
+        margin-top: 30px;
+    }
+    .full-bio {
+        text-align: justify;
+    }
+    .text-fullbio {
+        max-width: 300px;
+        margin: auto;
+    }
     footer {
         width: 100%;
         height: 200px;
