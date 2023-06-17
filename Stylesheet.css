@@ -83,6 +83,34 @@ html, body {
         padding-bottom: 15px;
         
     }
+
+    /* PAGE CONCERTS*/
+
+    .title-concerts {
+        text-align: center;
+        margin-top: 70px;
+        font-size: 50px;
+    }
+    .concerts-announcement {
+        font-size: 30px;
+    }
+    .date-concert {
+        font-size: 50px;
+        font-weight: bold;
+    }
+    .place-concert {
+        font-size: 25px;
+    }
+    .planning-concerts {
+        border-top: 1px solid black;
+        width: 500px;
+        margin: 0 auto;
+    }
+    .divider {
+        height: 1px;
+        width: 500px;
+        background-color: black;
+    }
     footer {
         width: 100%;
         height: 200px;
