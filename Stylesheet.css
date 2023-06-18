@@ -212,6 +212,12 @@ html, body {
         color: black;
         margin: 0 15px 0 15px;
     }
+    .link-nav:hover {
+        color:#818181;
+    }
+    a.active {
+        text-decoration: underline;
+    }
     .menu-list {
         display: inline-block;
     
