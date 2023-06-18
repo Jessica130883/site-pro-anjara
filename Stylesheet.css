@@ -224,9 +224,10 @@ html, body {
         
     }
     .socials-box {
-        position: absolute;
+        position: fixed;
         z-index: 1;
-        display: flex;
+       
+        
     }
     .photo-box {
         margin-top: 40px;
