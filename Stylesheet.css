@@ -237,12 +237,24 @@ html, body {
     .description-box {
         position: absolute;
         background-color: white;
-        top: 810px;
-        left: 35%;
-        
+        width: 700px;
+        top: 1120px;
+        left: 20%;
         z-index: 1;
-        margin-top: -40px;
         
+    }
+    .title-website {
+        text-align: center;
+        margin-top: 50px;
+        font-size: 60px;
+    }
+    .description-main-page {
+        max-width: 500px;
+        text-align: justify;
+        padding: 25px;
+    }
+    .bio-main-page {
+        margin-left: 90px;
     }
    
     .socials-list-footer {
