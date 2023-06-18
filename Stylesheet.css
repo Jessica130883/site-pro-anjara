@@ -194,6 +194,29 @@ html, body {
 }
 @media screen and (min-width: 769px){
 
+    #closeBtn {
+        display: none;
+    }
+    #mySidenav {
+        text-align: center;
+        margin-bottom: 60px;
+    }
+    .nav-list {
+        margin-top: 20px;
+    }
+    .menu-list {
+        list-style: none;
+    }
+    .link-nav {
+        text-decoration: none;
+        color: black;
+        margin: 0 15px 0 15px;
+    }
+    .menu-list {
+        display: inline-block;
+    
+        
+    }
     .photo-box {
         margin-top: -150px;
         background-color: rgba(178, 184, 190, 0.875);
@@ -224,5 +247,8 @@ html, body {
     .description-main-page {
         max-width: 400px;
         margin: 0 auto;
+    }
+    .socials-list-footer {
+        display: none;
     }
 }
