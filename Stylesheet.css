@@ -6,10 +6,12 @@ body {
   background-image: url(images/Banner-anjara.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center -35px;
+  background-attachment: fixed;
+ 
+  
 }
-.test {
-  margin-top: 100px;
-}
+
 .navbar-nav {
    margin: 0 auto;
 }
@@ -89,10 +91,6 @@ body {
         
     }
    
-   
-    .title-website {
-        text-align: center;
-    }
     .description-main-page {
         max-width: 250px;
         margin: 0 auto;
@@ -241,9 +239,11 @@ body {
     }
    .main-title {
     text-align: center;
-    margin: 45%;
+    margin: auto;
     color: white;
+    padding-top: 500px;
     font-size: 90px;
+    
     
    }
    .title-clip {
@@ -252,6 +252,7 @@ body {
    .box-video {
     float: left;
     width: 50%;
+    margin-bottom: 150px;
    }
    .title-ep {
     color: white;
@@ -259,8 +260,15 @@ body {
    .box-ep {
     float: right;
     width: 50%;
+    margin-bottom: 150px;
    }
-  
+   
+   .box-main-media {
+   margin-top: 300px;
+   }
+  .box-newsletter {
+    margin-bottom: 90px;
+  }
    
    
 
