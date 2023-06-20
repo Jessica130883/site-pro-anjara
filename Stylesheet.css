@@ -262,9 +262,14 @@ body {
     width: 50%;
     margin-bottom: 150px;
    }
+   .ml-embedded {
+    height: 315px;
+    width: 560px;
+   }
    
    .box-main-media {
-   margin-top: 300px;
+   margin-top: 400px;
+   text-align: center;
    }
   .box-newsletter {
     margin-bottom: 90px;
