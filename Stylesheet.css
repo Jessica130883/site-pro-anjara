@@ -246,7 +246,21 @@ body {
     font-size: 90px;
     
    }
-    
+   .title-clip {
+    color: white;
+   }
+   .box-video {
+    float: left;
+    width: 50%;
+   }
+   .title-ep {
+    color: white;
+   }
+   .box-ep {
+    float: right;
+    width: 50%;
+   }
+  
    
    
 
