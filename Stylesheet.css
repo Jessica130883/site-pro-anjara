@@ -242,6 +242,9 @@ body {
         right: 0;
         
     }
+    .page {
+      display: none;
+    }
    .main-title {
     text-align: center;
     margin: auto;
@@ -300,11 +303,8 @@ body {
     text-align: center;
     background-color: rgba(255, 255, 255, 0.423);
     
-    
   }
    
-   
-
   /* PAGE À PROPOS */
 
   .visuel-anjara2 {
@@ -314,6 +314,7 @@ body {
   .title-bio {
     text-align: center;
     margin: 60px 0 50px 0;
+    
   }
   .text-fullbio {
     max-width: 600px;
