@@ -324,4 +324,16 @@ body {
     .socials-list-footer {
         display: none;
     }
+
+  /* PAGE CONCERTS*/
+
+  .title-concerts {
+    text-align: center;
+    margin-top: 300px;
+    color: white;
+  }
+  .planning-concerts {
+    text-align: center;
+    color: white;
+  }
 }
