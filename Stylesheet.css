@@ -361,16 +361,20 @@ body {
     background-color: #111;
     color: white;
   }
+  .logo-radio-megafm {
+    height: 200px;
+    width: 300px;
+  }
   .logo-radio, .logo-show {
     height: 300px;
     width: 300px;
     border-radius: 5px;
   }
-  .box-logo1 {
+  .box-logo2 {
     float: left;
     
   }
-  .box-logo2 {
+  .box-logo3 {
     float: right;
   }
 
