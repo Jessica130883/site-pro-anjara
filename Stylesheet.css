@@ -382,6 +382,15 @@ body {
 
   .contact-section {
     text-align: center;
-    margin-top: 350px;
+    margin-top: 500px;
 }
+  .contact-section {
+    color: white;
+  }
+  .booking-contact {
+    margin-top: 40px;
+  }
+  .box-newsletter2 {
+    margin-top: 90px;
+  }
 }
