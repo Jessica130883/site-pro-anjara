@@ -336,4 +336,29 @@ body {
     text-align: center;
     color: white;
   }
+  /* PAGE MÉDIAS*/
+  .medias-section {
+    text-align: center;
+    margin: 500px 350px;
+
+  }
+  .image-show {
+    height: 300px;
+    width: 300px;
+  }
+  .title-interviews, .title-show {
+    color: white;
+  }
+  .title-show {
+    margin: 60px 60px;
+  }
+  .btn-media {
+    margin-top: 50px;
+    border: none;
+    border-radius: 15px;
+    width: 150px;
+    height: 40px;
+    background-color: #111;
+    color: white;
+  }
 }
