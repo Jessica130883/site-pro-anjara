@@ -361,6 +361,18 @@ body {
     background-color: #111;
     color: white;
   }
+  .logo-radio, .logo-show {
+    height: 300px;
+    width: 300px;
+    border-radius: 5px;
+  }
+  .box-logo1 {
+    float: left;
+    
+  }
+  .box-logo2 {
+    float: right;
+  }
 
   /*PAGE CONTACT*/
 
