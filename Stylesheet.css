@@ -151,11 +151,12 @@ body {
 
     .title-concerts {
         text-align: center;
-        margin-top: 70px;
+        margin-top: 570px;
         font-size: 50px;
     }
     .concerts-announcement {
         font-size: 30px;
+        margin-top: 90px;
     }
     .date-concert {
         font-size: 50px;
@@ -179,6 +180,7 @@ body {
     .title-interviews {
         text-align: center;
         margin-top: 90px;
+        font-family: 'Alegreya Sans', sans-serif;
     }
 
     /* PAGE CONTACT*/
@@ -186,6 +188,11 @@ body {
     .title-contact, .booking-contact, .title-infos {
         text-align: center;
         margin-top: 40px;
+        
+    }
+    h1.title-contact {
+    font-family: 'Alegreya Sans', sans-serif;
+    
     }
     footer {
         width: 100%;
@@ -337,11 +344,16 @@ body {
 
   .title-concerts {
     text-align: center;
-    margin-top: 300px;
+    margin-top: 450px;
     color: white;
     opacity: 0.6;
     font-family: 'Alegreya Sans', sans-serif;
     font-size: 150px;
+  }
+  .concerts-announcement {
+    font-family: 'Sansita', sans-serif;
+    font-size: 30px;
+    opacity: 0.7;
   }
   .planning-concerts {
     text-align: center;
@@ -357,11 +369,17 @@ body {
     height: 300px;
     width: 300px;
   }
+  .title-interviews {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 100px;
+    opacity: 0.7;
+  }
   .title-interviews, .title-show {
     color: white;
   }
   .title-show {
     margin: 60px 60px;
+    font-family: 'Sansita', sans-serif;
   }
   .btn-media {
     margin-top: 50px;
@@ -391,6 +409,21 @@ body {
 
   /*PAGE CONTACT*/
 
+  .title-contact {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 100px;
+    opacity: 0.7;
+  }
+  .title-booking {
+    font-family: 'Sansita', sans-serif;
+    font-size: 50px;
+    opacity: 0.7;
+  }
+  .newsletter-contact {
+    font-family: 'Sansita', sans-serif;
+    font-size: 50px;
+    opacity: 0.7;
+  }
   .contact-section {
     text-align: center;
     margin-top: 500px;
