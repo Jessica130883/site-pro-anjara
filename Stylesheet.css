@@ -81,28 +81,28 @@ body {
   }
   
 
-    .visuel-anjara {
-        height: 100%;
-        width: 100%;
-        object-fit: cover;
-    }
-    .photo-box {
-        height: 100%;
-        
-        
-    }
+    
+   /* PAGE D'ACCUEIL*/
+    
    
-    .description-main-page {
-        max-width: 250px;
-        margin: 0 auto;
-        text-align: justify;
-        margin-bottom: 90px;
-    }
-    iframe {
-        margin: auto;
-    }
     .socials-box {
         display: none;
+    }
+    .main-title {
+      text-align: center;
+      margin-top: 400px;
+      color: white;
+      opacity: 0.7;
+      font-size: 100px;
+      font-family: 'Alegreya Sans', sans-serif;
+    }
+    .box-main-media {
+      text-align: center;
+    }
+    .title-clip, .title-ep, .title-newsletter {
+      text-align: center;
+      color: white;
+      opacity: 0.7;
     }
     .socials-list-footer {
       display: inline-flex;
@@ -227,6 +227,8 @@ body {
     .page {
       display: none;
     }
+    /* PAGE D'ACCUEIL*/
+
    .main-title {
     text-align: center;
     margin: auto;
@@ -409,6 +411,16 @@ body {
     font-size: 50px;
     opacity: 0.7;
   }
+  .contact-address {
+    font-size: 25px;
+  }
+  .email-address {
+    color: white;
+    text-decoration: none;
+  }
+  .email-address:hover {
+    color:rgba(255, 255, 255, 0.423);
+  }
   .newsletter-contact {
     font-family: 'Sansita', sans-serif;
     font-size: 50px;
@@ -427,5 +439,6 @@ body {
   .box-newsletter2 {
     margin-top: 90px;
     margin-bottom: 350px;
+
   }
 }
