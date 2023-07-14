@@ -312,11 +312,16 @@ body {
     max-width: 600px;
     margin: auto;
     text-align: justify;
-    color: white;
+    color: rgba(7, 7, 7, 0.837);
+    font-size: 20px;
+    background-color: rgba(232, 229, 229, 0.656);
+    padding: 15px;
+    border-radius: 3px;
   }
   .full-bio {
     margin-top: 500px;
     margin-bottom: 400px;
+    
   }
   
     .socials-list-footer {
