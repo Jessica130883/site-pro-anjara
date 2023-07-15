@@ -442,7 +442,7 @@ body {
   }
   .concerts-announcement {
     font-family: 'Sansita', sans-serif;
-    font-size: 30px;
+    font-size: 60px;
     opacity: 0.7;
   }
   .planning-concerts {
@@ -453,6 +453,14 @@ body {
   .concerts-dates {
     margin-bottom: 400px;
     font-family: 'Sansita', sans-serif;
+  }
+  .date-concert {
+    font-size: 40px;
+    opacity: 0.6;
+  }
+  .place-concert {
+    font-size: 30px;
+    opacity: 0.6;
   }
   .divider {
     height: 1px;
