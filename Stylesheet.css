@@ -25,6 +25,12 @@ body {
 .socials-box {
     text-align: right;
     margin-right: 20px;
+    margin-top: 23px;
+    
+  
+}
+.socials2 {
+  margin-top: 40px;
 }
 @media screen and (max-width: 768px) {
 
@@ -284,6 +290,8 @@ body {
 }
 @media screen and (min-width: 769px){
 
+  /* PAGE D'ACCUEIL*/
+
     #closeBtn {
         display: none;
     }
@@ -325,10 +333,16 @@ body {
         right: 0;
         
     }
+    .socials-icone {
+      margin: 3px;
+    }
+    .icone2 {
+      margin-bottom: 8px;
+    }
     .page {
       display: none;
     }
-    /* PAGE D'ACCUEIL*/
+    
 
    .main-title {
     text-align: center;
