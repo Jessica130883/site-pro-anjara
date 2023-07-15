@@ -223,6 +223,9 @@ body {
     }
     /* PAGE MÉDIAS*/
 
+    .medias-section {
+      margin-top: 300px;
+    }
     .title-interviews {
         text-align: center;
         margin-top: 90px;
@@ -285,6 +288,9 @@ body {
 
     /* PAGE CONTACT*/
 
+    .contact-section {
+      margin-top: 300px;
+    }
     .title-contact, .booking-contact, .title-infos {
         text-align: center;
         margin-top: 40px;
@@ -314,6 +320,10 @@ body {
       opacity: 0.7;
       font-family: 'Alegreya Sans', sans-serif;
       margin-top: 80px;
+      width: 300px;
+      display: block;
+      margin: 0 auto;
+
     }
    
     footer {
