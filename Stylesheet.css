@@ -34,6 +34,12 @@ body {
 }
 @media screen and (max-width: 768px) {
 
+  ::-webkit-scrollbar {
+    display: none;
+  }
+  body {
+    overflow-x: hidden;
+  }
     /* Sidenav menu */
 .sidenav {
     height: 100%;
@@ -324,6 +330,7 @@ body {
     
         
     }
+    
     .socials-box {
         
         z-index: 1;
