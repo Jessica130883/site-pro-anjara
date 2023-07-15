@@ -130,17 +130,27 @@ body {
        
     }
     /* À PROPOS*/
-    
+
     .title-bio {
         text-align: center;
         margin-top: 30px;
+        color: white;
+        font-family: 'Alegreya Sans', sans-serif;
+        font-size: 45px;
+        opacity: 0.7;
     }
     .full-bio {
         text-align: justify;
+        margin: 300px 100px;
+        
     }
     .text-fullbio {
-        max-width: 300px;
+        max-width: 400px;
         margin: auto;
+        background-color: rgba(232, 229, 229, 0.656);
+        padding: 15px;
+        border-radius: 5px;
+        max-width: 300px;
     }
    
     /* PAGE CONCERTS*/
