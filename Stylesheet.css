@@ -119,30 +119,35 @@ body {
       margin-top: 400px;
       color: white;
       opacity: 0.7;
-      font-size: 140px;
+      font-size: 100px;
       font-family: 'Alegreya Sans', sans-serif;
     }
-    .box-main-media {
-      margin: auto 0;
-    }
+
     .title-ep, .title-newsletter {
       text-align: center;
       color: white;
       opacity: 0.7;
       font-size: 35px;
+      
     }
     .title-clip {
       color: white;
       opacity: 0.7;
-      font-size: 35px;
-      width: 400px;
-      margin: auto 0;
-    }
-    .box-video {
-      height: 250px;
-      width: 100px;
-      margin-bottom: 250px;
+      font-size: 25px;
+      text-align: center;
      
+    }
+    
+    .video-mobile {
+      height: 300px;
+      width: 400px;
+      display: block;
+      margin: 0 auto;
+      
+    }
+    .spotify-player {
+      display: block;
+      margin: 0 auto;
     }
    
     .socials-list-footer {
@@ -235,30 +240,48 @@ body {
       height: 400px;
       width: 300px;
       margin-bottom: 10px;
+      display: block;
+      margin: 0 auto;
+      border-radius: 5px;
     }
     .box-logo1, .box-logo2 {
       margin-top: 45px;
     }
     .btn-media {
-      margin-top: 10px;
+      
       border: none;
       border-radius: 15px;
       width: 150px;
       height: 40px;
       background-color: #111;
       color: white;
+      display: block;
+      margin: 0 auto;
+      
     }
+   .link-itw1, .link-itw2 {
+    text-decoration: none;
+    
+   }
     .logo-radio-megafm {
       height: 100px;
       width: 250px;
+      display: block;
+      margin: 0 auto;
     }
     .logo-radio, .logo-show {
       height: 250px;
       width: 250px;
+      display: block;
+      margin: 0 auto;
     }
     .logo-show {
       margin-top: 10px;
     }
+    .box-itw, .box-logo1, .box-logo3 {
+      margin-bottom: 30px;
+    }
+
 
     /* PAGE CONTACT*/
 
