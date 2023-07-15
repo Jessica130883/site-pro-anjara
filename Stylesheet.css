@@ -200,6 +200,42 @@ body {
         text-align: center;
         margin-top: 90px;
         font-family: 'Alegreya Sans', sans-serif;
+        color: white;
+        opacity: 0.7;
+        font-size: 60px;
+    }
+    .title-show {
+      color: white;
+      text-align: center;
+      margin: 30px 30px;
+    }
+    .image-show {
+      height: 400px;
+      width: 300px;
+      margin-bottom: 10px;
+    }
+    .box-logo1, .box-logo2 {
+      margin-top: 45px;
+    }
+    .btn-media {
+      margin-top: 10px;
+      border: none;
+      border-radius: 15px;
+      width: 150px;
+      height: 40px;
+      background-color: #111;
+      color: white;
+    }
+    .logo-radio-megafm {
+      height: 100px;
+      width: 250px;
+    }
+    .logo-radio, .logo-show {
+      height: 250px;
+      width: 250px;
+    }
+    .logo-show {
+      margin-top: 10px;
     }
 
     /* PAGE CONTACT*/
