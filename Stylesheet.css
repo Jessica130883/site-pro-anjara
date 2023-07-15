@@ -159,27 +159,40 @@ body {
         text-align: center;
         margin-top: 570px;
         font-size: 50px;
+        color: white;
+        opacity: 0.7;
+        font-family: 'Alegreya Sans', sans-serif;
     }
     .concerts-announcement {
         font-size: 30px;
-        margin-top: 90px;
+        font-family: 'Sansita', sans-serif;
+        text-align: center;
+        margin-top: 20px;
+        color: white;
+        opacity: 0.7;
     }
     .date-concert {
         font-size: 50px;
         font-weight: bold;
+        color: white;
+        opacity: 0.7;
+        font-family: 'Sansita', sans-serif;
     }
     .place-concert {
         font-size: 25px;
+        color: white;
+        opacity: 0.7;
+        font-family: 'Sansita', sans-serif;
     }
     .planning-concerts {
-        border-top: 1px solid black;
+        border-top: 1px solid white;
         width: 500px;
         margin: 0 auto;
     }
     .divider {
         height: 1px;
         width: 500px;
-        background-color: black;
+        background-color: white;
     }
     /* PAGE MÉDIAS*/
 
@@ -377,9 +390,11 @@ body {
   .planning-concerts {
     text-align: center;
     color: white;
+ 
   }
   .concerts-dates {
     margin-bottom: 400px;
+    font-family: 'Sansita', sans-serif;
   }
   .divider {
     height: 1px;
