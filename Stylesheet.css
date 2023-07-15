@@ -16,6 +16,9 @@ body {
 .navbar-nav {
    margin: 0 auto;
 }
+.link-nav {
+  font-family: 'Alegreya Sans', sans-serif;
+}
 .socials-icone {
     list-style: none;
 }
