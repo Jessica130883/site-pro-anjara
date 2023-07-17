@@ -169,6 +169,7 @@ body {
     .full-bio {
         text-align: justify;
         margin: 300px 100px;
+        font-family: 'Marcellus', serif;
         
     }
     .text-fullbio {
@@ -260,6 +261,7 @@ body {
       color: white;
       display: block;
       margin: 0 auto;
+      font-family: 'Marcellus', serif;
       
     }
    .link-itw1, .link-itw2 {
@@ -311,6 +313,7 @@ body {
     }
     .contact-address {
       font-size: 25px;
+      font-family: 'Marcellus', serif;
       
     }
     .newsletter-contact {
@@ -487,6 +490,7 @@ body {
   .full-bio {
     margin-top: 500px;
     margin-bottom: 400px;
+    font-family: 'Marcellus', serif;
     
   }
   
@@ -558,10 +562,17 @@ body {
     margin-top: 50px;
     border: none;
     border-radius: 15px;
-    width: 150px;
+    width: 200px;
     height: 40px;
     background-color: #111;
     color: white;
+    font-family: 'Marcellus', serif;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .btn-media:hover {
+    background-color: #818181;
+    opacity: 0.8;
   }
   .logo-radio-megafm {
     height: 200px;
@@ -594,6 +605,7 @@ body {
   }
   .contact-address {
     font-size: 25px;
+    font-family: 'Marcellus', serif;
   }
   .email-address {
     color: white;
