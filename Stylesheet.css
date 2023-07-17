@@ -423,6 +423,9 @@ body {
     padding-top: 50px;
     
    }
+   iframe {
+    border: none;
+   }
    .title-ep {
     color: white;
     font-family: 'Sansita', sans-serif;
