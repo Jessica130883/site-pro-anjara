@@ -571,8 +571,9 @@ body {
     font-weight: bold;
   }
   .btn-media:hover {
-    background-color: #818181;
-    opacity: 0.8;
+    
+    opacity: 0.9;
+    color: red;
   }
   .logo-radio-megafm {
     height: 200px;
