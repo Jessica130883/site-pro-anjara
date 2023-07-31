@@ -176,7 +176,7 @@ body {
         
     }
     .text-fullbio {
-        max-width: 400px;
+        max-width: 600px;
         margin: auto;
         background-color: rgba(232, 229, 229, 0.656);
         padding: 15px;
@@ -391,7 +391,8 @@ body {
         margin: 0 15px 0 15px;
     }
     .link-nav:hover {
-        color:#818181;
+        color: red;
+        opacity: 0.5;
     }
     a.active {
         text-decoration: underline;
@@ -414,6 +415,7 @@ body {
     .socials-icone {
       margin: 3px;
     }
+    
     .icone2 {
       margin-bottom: 8px;
     }
