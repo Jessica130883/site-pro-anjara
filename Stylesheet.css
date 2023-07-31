@@ -339,7 +339,9 @@ body {
     }
    
     /* FOOTER*/
-    
+   .ul.socials-list-footer {
+      margin-left: 90px;
+    }
     .footer-section {
       text-align: center;
       background-color: white;
