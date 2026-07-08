@@ -502,7 +502,7 @@ body {
     margin: 60px 0 50px 0;
     color: white;
     font-family: 'Alegreya Sans', sans-serif;
-    font-size: 150px;
+    font-size: 100px;
     opacity: 0.7;
     
   }
@@ -535,7 +535,7 @@ body {
     color: white;
     opacity: 0.6;
     font-family: 'Alegreya Sans', sans-serif;
-    font-size: 150px;
+    font-size: 100px;
   }
   .concerts-announcement {
     font-family: 'Sansita', sans-serif;
@@ -577,7 +577,7 @@ body {
   }
   .title-interviews {
     font-family: 'Alegreya Sans', sans-serif;
-    font-size: 150px;
+    font-size: 100px;
     opacity: 0.7;
   }
   .title-interviews, .title-show {
