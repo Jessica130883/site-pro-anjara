@@ -713,4 +713,7 @@ body {
   .link-legal:hover {
     color: red;
   }
+  h1.main-title {
+    font-size: 150px !important;
+}
 }
