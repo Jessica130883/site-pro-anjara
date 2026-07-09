@@ -674,11 +674,18 @@ body {
   .booking-contact {
     margin-top: 40px;
   }
-  .box-newsletter2 {
+}
+.newsletter-contact {
+    color: #ffffff;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.35);
+}
+.box-newsletter2 {
     margin-top: 90px;
-    margin-bottom: 350px;
-
-  }
+    margin-bottom: 250px;
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
   /* PAGE MENTIONS LÉGALES*/
   .main-legal {
     
@@ -722,7 +729,11 @@ body {
 .ml-embedded p,
 .ml-embedded span,
 .ml-embedded a {
-    color: #d9d9d9 !important;
+color: #ffffff !important;
+}
+.newsletter-contact {
+    color: white;
+    text-shadow: 0 3px 12px rgba(0,0,0,0.45);
 }
 
 }
