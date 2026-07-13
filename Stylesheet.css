@@ -717,6 +717,12 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+.contact-section .ml-form-embedContent p,
+.contact-section .ml-form-embedContent span,
+.contact-section .ml-form-embedPermissionsContent p,
+.contact-section .ml-form-embedPermissionsContent span {
+    color: #333333 !important;
+}
   /* PAGE MENTIONS LÉGALES*/
   .main-legal {
     
@@ -773,5 +779,6 @@ color: #ffffff !important;
     color: white;
     text-shadow: 0 3px 12px rgba(0,0,0,0.45);
 }
+
 
 }
