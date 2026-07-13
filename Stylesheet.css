@@ -13,6 +13,7 @@ body {
   
 }
 
+
 .navbar-nav {
    margin: 0 auto;
 }
@@ -170,7 +171,7 @@ body {
     text-shadow: 0 2px 8px rgba(0,0,0,0.35);
 }
 .newsletter-home {
-    width: 650px;
+    max-width: 650px;
     margin-left: auto;
     margin-right: auto;
     padding: 35px;
@@ -178,15 +179,33 @@ body {
     border-radius: 8px;
 }
 .newsletter-home {
-    width: 650px;
+    max-width: 650px;
     margin-left: auto;
     margin-right: auto;
     background: rgba(255,255,255,0.75);
     padding: 35px;
     border-radius: 8px;
 }
+.newsletter-home {
+        width: 92%;
+        padding: 20px;
+    }
 
+    .box-newsletter2 {
+        width: 92%;
+    }
 
+    .newsletter-home-title {
+        font-size: 34px;
+    }
+
+.ml-embedded input,
+.ml-embedded textarea,
+.ml-embedded select,
+.ml-embedded button {
+    max-width: 100%;
+    box-sizing: border-box;
+}
     /* À PROPOS*/
 
     .title-bio {
@@ -368,6 +387,13 @@ body {
       margin: 0 auto;
 
     }
+    .box-newsletter2 {
+    width: 90%;
+    max-width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+}
    
     /* FOOTER*/
   .example {
@@ -405,9 +431,22 @@ body {
       color: red;
     }
 
-  
-
 }
+@media (max-width: 768px) {
+    body,
+    main,
+    footer,
+    .footer-section,
+    .example {
+        width: 100% !important;
+        max-width: none !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+}
+
 @media screen and (min-width: 769px){
 
   /* PAGE D'ACCUEIL*/
