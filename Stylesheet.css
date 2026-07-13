@@ -762,6 +762,13 @@ body {
 .ml-embedded a {
 color: #ffffff !important;
 }
+.newsletter-home .ml-form-embedPermissionsContent p,
+.newsletter-home .ml-form-embedPermissionsContent span {
+    color: #333333 !important;
+}
+.newsletter-home .ml-form-embedContent * {
+    color: #333333 !important;
+}
 .newsletter-contact {
     color: white;
     text-shadow: 0 3px 12px rgba(0,0,0,0.45);
