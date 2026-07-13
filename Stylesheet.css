@@ -723,6 +723,9 @@ body {
 .contact-section .ml-form-embedPermissionsContent span {
     color: #333333 !important;
 }
+.ml-form-embedContent h4 {
+    text-align: center !important;
+}
   /* PAGE MENTIONS LÉGALES*/
   .main-legal {
     
