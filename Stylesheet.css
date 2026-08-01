@@ -3,7 +3,7 @@ html, body {
     padding: 0;
 }
 body {
-  background-image: url(images/Banner-anjara.jpg);
+  background-image: url(images/banner-anjara.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center -35px;
@@ -45,7 +45,7 @@ body {
   
   body {
     overflow-x: hidden;
-    background-image: url('images/Banner-anjara.jpg');
+    background-image: url('images/banner-anjara.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center bottom;
