@@ -149,6 +149,10 @@ body {
         background-color: rgba(129, 129, 129, 0.5);
         padding-top: 30px;
         padding-bottom: 120px;
+        width: 100%;
+        max-width: 100%;
+        float: none;
+        box-sizing: border-box;
     }
      .box-ep {
         background-color: rgba(255, 0, 0, 0.5);
