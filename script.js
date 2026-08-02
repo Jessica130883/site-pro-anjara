@@ -15,11 +15,13 @@ function closeNav() {
 
 
 /* ANIMATION TITRE */
-window.addEventListener("load", () => {
-    const title = document.querySelector(".main-title");
+window.addEventListener("DOMContentLoaded", () => {
+  const title = document.querySelector(".main-title");
 
-    if (title) {
-        title.classList.add("visible");
-    }
+  if (title) {
+    setTimeout(() => {
+      title.classList.add("visible");
+    }, 100);
+  }
 });
 
