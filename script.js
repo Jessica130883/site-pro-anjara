@@ -9,8 +9,10 @@ closeBtn.onclick = closeNav;
 function openNav() {
   sidenav.classList.add("active");
 }
+function closeNav() {
+  sidenav.classList.remove("active");
+}
 
-/* AFFICHAGE AUTRES PAGES*/
 
 /* ANIMATION TITRE */
 window.addEventListener("load", () => {
