@@ -12,5 +12,12 @@ function openNav() {
 
 /* AFFICHAGE AUTRES PAGES*/
 
+/* ANIMATION TITRE */
+window.addEventListener("load", () => {
+    const title = document.querySelector(".main-title");
 
+    if (title) {
+        title.classList.add("visible");
+    }
+});
 
