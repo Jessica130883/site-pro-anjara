@@ -280,13 +280,21 @@ body::before {
         
     }
     .text-fullbio {
-        max-width: 600px;
-        margin: auto;
-        background-color: rgba(232, 229, 229, 0.656);
-        padding: 15px;
-        border-radius: 5px;
-        max-width: 300px;
+    width: 85%;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: rgba(232, 229, 229, 0.656);
+    border-radius: 8px;
     }
+    .text-fullbio p {
+    margin: 0 0 20px;
+}
+
+.text-fullbio p:last-child {
+    margin-bottom: 0;
+}
     .texte-bio {
       max-width: 500px;
     }
