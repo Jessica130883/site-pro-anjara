@@ -48,15 +48,22 @@ body {
     overflow-x: hidden;
     min-height: 100vh;
     position: relative;
+    isolation: isolate;
+    background: none;
+}
+body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: -1;
 
     background-image: url('images/banner-anjara.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center top;
-    background-attachment: scroll;
 
-   
-  }
+    pointer-events: none;
+}
     /* Sidenav menu */
 .sidenav {
     height: 100%;
