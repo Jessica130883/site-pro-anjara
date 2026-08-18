@@ -39,14 +39,13 @@ body {
     display: none;
   }
   html {
-    height: 100%;
+    
     min-height: 100vh; /* La hauteur minimale est définie sur 100% de la hauteur de la fenêtre visible (viewport height) */
     overflow-x: hidden;
   }
   
   body {
     overflow-x: hidden;
-    height: 100%;
     min-height: 100vh;
     position: relative;
 
