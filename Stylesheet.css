@@ -283,7 +283,7 @@ body::before {
     width: 92%;
     max-width: 500px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 20px 15px;
     box-sizing: border-box;
     background-color: rgba(232, 229, 229, 0.656);
     border-radius: 8px;
